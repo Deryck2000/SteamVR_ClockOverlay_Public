@@ -1,0 +1,2 @@
+# SteamVR_ClockOverlay_Public
+SteamVR上で左腕に追従するデジタル時計を表示する
